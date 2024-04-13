@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-
+// new comment
 const HomePage = (props) =>{
     const navigate = useNavigate()
 
